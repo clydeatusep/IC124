@@ -8,6 +8,9 @@
 | M4  | Inheritance    |
 | M5  | JavaFX    |
 
+### JGrasp IDE
+![Temperature](https://raw.githubusercontent.com/clydeatusep/IC124/main/M1/Temperature.png?token=GHSAT0AAAAAACN65XBUBBGDXE6LZHDAE7YCZOE6XSQ)
+
 ### Codespace Terminal
 
 ```bash
