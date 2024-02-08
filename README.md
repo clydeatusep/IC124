@@ -1,5 +1,12 @@
 # IC124
 
+| Module   | Description |
+| -------- | ------- |
+| M1  | Multi-dimensional Arrays    |
+| M2  | Classess and Objects    |
+| M3  | Implementing Classes    |
+| M4  | Inheritance    |
+| M5  | JavaFX    |
 
 ### Codespace Terminal
 
