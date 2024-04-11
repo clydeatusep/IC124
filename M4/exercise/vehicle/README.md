@@ -50,9 +50,9 @@ Menu:
 5. Quit
 Enter your choice: 2
 List of vehicle details:
-Reg No: ABC123, Make: Toyota, Year of Manufacture: 2018, Value: $25000.0
-Reg No: XYZ456, Make: Honda, Year of Manufacture: 2020, Value: $18000.0
-Reg No: DEF789, Make: Ford, Year of Manufacture: 2015, Value: $30000.0
+Reg No: ABC123, Make: Toyota, Year of Manufacture: 2018, Value: Php25000.0
+Reg No: XYZ456, Make: Honda, Year of Manufacture: 2020, Value: Php18000.0
+Reg No: DEF789, Make: Ford, Year of Manufacture: 2015, Value: Php30000.0
 
 Menu:
 1. Add a vehicle
@@ -67,9 +67,9 @@ Sort Menu:
 3. Back to main menu
 Enter your choice: 1
 List of vehicle details sorted by age (ascending):
-Reg No: DEF789, Make: Ford, Year of Manufacture: 2015, Value: $30000.0
-Reg No: ABC123, Make: Toyota, Year of Manufacture: 2018, Value: $25000.0
-Reg No: XYZ456, Make: Honda, Year of Manufacture: 2020, Value: $18000.0
+Reg No: DEF789, Make: Ford, Year of Manufacture: 2015, Value: Php30000.0
+Reg No: ABC123, Make: Toyota, Year of Manufacture: 2018, Value: Php25000.0
+Reg No: XYZ456, Make: Honda, Year of Manufacture: 2020, Value: Php18000.0
 
 Sort Menu:
 1. Sort by age (ascending)
@@ -77,9 +77,9 @@ Sort Menu:
 3. Back to main menu
 Enter your choice: 2
 List of vehicle details sorted by age (descending):
-Reg No: XYZ456, Make: Honda, Year of Manufacture: 2020, Value: $18000.0
-Reg No: ABC123, Make: Toyota, Year of Manufacture: 2018, Value: $25000.0
-Reg No: DEF789, Make: Ford, Year of Manufacture: 2015, Value: $30000.0
+Reg No: XYZ456, Make: Honda, Year of Manufacture: 2020, Value: Php18000.0
+Reg No: ABC123, Make: Toyota, Year of Manufacture: 2018, Value: Php25000.0
+Reg No: DEF789, Make: Ford, Year of Manufacture: 2015, Value: Php30000.0
 
 Sort Menu:
 1. Sort by age (ascending)
