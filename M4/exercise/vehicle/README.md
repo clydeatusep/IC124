@@ -1,5 +1,13 @@
 # Programming Exercise: Vehicle
 
+Write a menu-driven program that uses an ArrayList to hold Vehicles. The menu should offer the following options:
+
+1. Add a vehicle 
+2. Display a list of vehicle details 
+3. Delete a vehicle 
+4. Sort vehicle list by age 
+5. Quit
+
 ### Sample Run
 
 ```mathematica
